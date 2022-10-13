@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "pyStringChecks"
+  site-url: "https://rajmallah.github.io/pyStringChecks"
+  description: "String Checks in Python"
+  repo-branch: main
+  repo-url: "https://github.com/rajmallah/pyStringChecks"
